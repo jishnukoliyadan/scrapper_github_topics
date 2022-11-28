@@ -8,7 +8,7 @@
 <br>
 <a href = 'https://colab.research.google.com/github/jishnukoliyadan/scrapper_github_topics//blob/master/scraping_github_topics.ipynb' target = '_blank'><img src = 'https://raw.githubusercontent.com/jishnukoliyadan/usefull_items/master/svgs/Colab_Run_In.svg' width = 23%></a>
 <a href = 'https://github.com/jishnukoliyadan/scrapper_github_topics/blob/master/scraping_github_topics.ipynb' target = '_blank'><img src = 'https://raw.githubusercontent.com/jishnukoliyadan/usefull_items/master/svgs/GitHub_View_Source.svg' width = 23%></a>
-<a href = 'https://www.kaggle.com/code/jishnukoliyadan/data-collection-tutorial' target = '_blank'><img src = 'https://raw.githubusercontent.com/jishnukoliyadan/usefull_items/master/svgs/Kaggle_View_On.svg' width = 23%></a>
+<a href = 'https://www.kaggle.com/jishnukoliyadan/data-collection-web-scrapping-tutorial/' target = '_blank'><img src = 'https://raw.githubusercontent.com/jishnukoliyadan/usefull_items/master/svgs/Kaggle_View_On.svg' width = 23%></a>
 <a href = 'https://nbviewer.org/github/jishnukoliyadan/scrapper_github_topics/blob/master/scraping_github_topics.ipynb' target = '_blank'><img src = 'https://raw.githubusercontent.com/jishnukoliyadan/usefull_items/master/svgs/NbViwer_View_In.svg' width = 23%></a>
 <br>
 </div>
